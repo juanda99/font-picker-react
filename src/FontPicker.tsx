@@ -1,3 +1,5 @@
+import React, { KeyboardEvent, PureComponent, ReactElement } from "react";
+
 import {
 	Category,
 	Font,
@@ -8,8 +10,7 @@ import {
 	Script,
 	SortOption,
 	Variant,
-} from "@samuelmeuli/font-manager";
-import React, { KeyboardEvent, PureComponent, ReactElement } from "react";
+} from "./index";
 
 type LoadingStatus = "loading" | "finished" | "error";
 
