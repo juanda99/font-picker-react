@@ -1,10 +1,10 @@
 {
 	"name": "arasaac-font-picker",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Font selector component for Google Fonts",
 	"author": {
 		"name": "juanda",
-		"email": "juandacorreo@gmail.com",
+		"email": "juandacorreo@gmail.com"
 	},
 	"repository": "github:juanda99/font-picker-react",
 	"license": "MIT",
