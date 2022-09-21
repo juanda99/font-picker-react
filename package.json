@@ -1,6 +1,6 @@
 {
 	"name": "arasaac-font-picker",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"description": "Font selector component for Google Fonts",
 	"author": {
 		"name": "juanda",
@@ -46,8 +46,8 @@
 		"@babel/runtime": "^7.9.2"
 	},
 	"peerDependencies": {
-		"@types/react": "^16.0.0",
-		"react": "^16.0.0"
+		"@types/react": "^18.0.0",
+		"react": "^18.0.0"
 	},
 	"devDependencies": {
 		"@babel/core": "^7.9.0",
@@ -56,7 +56,7 @@
 		"@samuelmeuli/stylelint-config": "^3.0.0",
 		"@samuelmeuli/tsconfig": "^1.0.0",
 		"@storybook/react": "^5.3.18",
-		"@types/react": "^16.9.34",
+		"@types/react": "^18.0.0",
 		"@typescript-eslint/eslint-plugin": "^2.29.0",
 		"@typescript-eslint/parser": "^2.29.0",
 		"babel-loader": "^8.1.0",
